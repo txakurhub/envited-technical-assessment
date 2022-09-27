@@ -1,3 +1,61 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.title {
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+}
+
+.home-img {
+    height: 775.6912841796875px;
+    width: 440px;
+    left: 170px;
+    top: 100px;
+    border-radius: 35.15217590332031px;
+}
+
+.description-sm {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0em;
+ 
+}
+
+.description {
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+}
+
+.birthday {
+    font-family: Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 0px;
+}
+
+.elysia {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0px;
+}
+
+.hostedby {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+}
