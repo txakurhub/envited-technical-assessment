@@ -10,7 +10,7 @@ Technical Assessment to test front end skill (React js, CSS, HTML), creativity a
  npm start 
 ```
 
-## 💻 Snapshots
+##  📸  Snapshots
 
 <img src="https://res.cloudinary.com/ddkurzft6/image/upload/v1667677845/envited%20challenge/envited_challenge_eohld4.png"/>
 <img src="https://res.cloudinary.com/ddkurzft6/image/upload/v1667677845/envited%20challenge/envited_challenge_responsive_1_fb1dpe.png"/>
